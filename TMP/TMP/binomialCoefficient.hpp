@@ -1,4 +1,7 @@
+#ifndef fact 
 #include"factorial.hpp"
+#define fact
+#endif
 
 template<unsigned N,unsigned K>
 struct C {
