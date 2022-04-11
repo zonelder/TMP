@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="binomialCoefficient.hpp" />
     <ClInclude Include="factorial.hpp" />
+    <ClInclude Include="fibonachi.hpp" />
     <ClInclude Include="monomial_3d.hpp" />
     <ClInclude Include="my_accumulate.hpp" />
     <ClInclude Include="TMP.hpp" />

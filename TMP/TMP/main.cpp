@@ -17,5 +17,8 @@ int main()
 	double a[3] = { 1.23, 2.34, 3.45 };
 	double sum = my_accumulate(a, a + 3, 0.);//7.02 -правильное поведение accumulate в отличии от стандартного аналога
 	std::cout << sum << std::endl;
+
+	const unsigned fib = fibonachi<6>::value;//8
+	std::cout << fib << std::endl;
 	return 0;
 }
