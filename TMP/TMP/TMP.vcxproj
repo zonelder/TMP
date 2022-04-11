@@ -145,8 +145,12 @@
     <ClInclude Include="binomialCoefficient.hpp" />
     <ClInclude Include="factorial.hpp" />
     <ClInclude Include="fibonachi.hpp" />
+    <ClInclude Include="is_prime.hpp" />
+    <ClInclude Include="monomial_2d.hpp" />
     <ClInclude Include="monomial_3d.hpp" />
     <ClInclude Include="my_accumulate.hpp" />
+    <ClInclude Include="pow.hpp" />
+    <ClInclude Include="prime_at.hpp" />
     <ClInclude Include="TMP.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
